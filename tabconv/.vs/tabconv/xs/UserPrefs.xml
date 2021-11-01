@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{1CD9E1C8-5565-4AE7-996B-754C885FC1E3}|Default">
+  <MonoDevelop.Ide.ItemProperties.tabconv PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="tabconv/Program.cs">
+    <Files>
+      <File FileName="tabconv/Program.cs" Line="30" Column="10" />
+      <File FileName="tabconv/Converter.cs" />
+      <File FileName="tabconv/Table.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="tabconv" expanded="True">
+            <Node name="tabconv" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

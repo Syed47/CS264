@@ -1,0 +1,9 @@
+<svg width="600" height="600" xmlns="http://www.w3.org/2000/svg">
+	<circle cx = "100" cy = "100" r = "25" stroke = "red" stroke-width = "8" fill = "gray" style = "" />
+	<ellipse cx = "300" cy = "100" rx = "100" ry = "70" stroke = "orange" stroke-width = "16" fill = "yellow" style = "" />
+	<polygon points = "300,200, 0,100 350,300, 400,20" stroke = "orange" stroke-width = "4" fill = "brown" style = "" />
+	<rect x = "100" y = "150" width = "150" height = "150" stroke = "" stroke-width = "4" fill = "cyan" style = "" />
+	<polyline points = "400,200 300,10 230,100, 40,20 50,400 300,400 400,400" stroke = "green" stroke-width = "4" fill = "none" style = "" />
+	<rect x = "200" y = "200" width = "40" height = "200" stroke = "purple" stroke-width = "4" fill = "none" style = "" />
+	<line x1 = "0" y1 = "0" x2 = "500" y2 = "500" stroke = "blue" stroke-width = "10" style = "" />
+</svg>
