@@ -1,0 +1,15 @@
+/Users/syed/Desktop/CS264/assignment1/tabconv/tabconv/bin/Debug/net5.0/tabconv.deps.json
+/Users/syed/Desktop/CS264/assignment1/tabconv/tabconv/bin/Debug/net5.0/tabconv.runtimeconfig.json
+/Users/syed/Desktop/CS264/assignment1/tabconv/tabconv/bin/Debug/net5.0/tabconv.runtimeconfig.dev.json
+/Users/syed/Desktop/CS264/assignment1/tabconv/tabconv/bin/Debug/net5.0/tabconv.dll
+/Users/syed/Desktop/CS264/assignment1/tabconv/tabconv/bin/Debug/net5.0/ref/tabconv.dll
+/Users/syed/Desktop/CS264/assignment1/tabconv/tabconv/bin/Debug/net5.0/tabconv.pdb
+/Users/syed/Desktop/CS264/assignment1/tabconv/tabconv/obj/Debug/net5.0/tabconv.csproj.AssemblyReference.cache
+/Users/syed/Desktop/CS264/assignment1/tabconv/tabconv/obj/Debug/net5.0/tabconv.GeneratedMSBuildEditorConfig.editorconfig
+/Users/syed/Desktop/CS264/assignment1/tabconv/tabconv/obj/Debug/net5.0/tabconv.AssemblyInfoInputs.cache
+/Users/syed/Desktop/CS264/assignment1/tabconv/tabconv/obj/Debug/net5.0/tabconv.AssemblyInfo.cs
+/Users/syed/Desktop/CS264/assignment1/tabconv/tabconv/obj/Debug/net5.0/tabconv.csproj.CoreCompileInputs.cache
+/Users/syed/Desktop/CS264/assignment1/tabconv/tabconv/obj/Debug/net5.0/tabconv.dll
+/Users/syed/Desktop/CS264/assignment1/tabconv/tabconv/obj/Debug/net5.0/ref/tabconv.dll
+/Users/syed/Desktop/CS264/assignment1/tabconv/tabconv/obj/Debug/net5.0/tabconv.pdb
+/Users/syed/Desktop/CS264/assignment1/tabconv/tabconv/obj/Debug/net5.0/tabconv.genruntimeconfig.cache
