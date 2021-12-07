@@ -2,8 +2,6 @@
 
 /*
 Assignment 3
-Syed Baryalay
-19719431
 
 Created with Visual Studio for Mac (not VS Code)
 Using Mono C# 4.0 and .NET 5.0

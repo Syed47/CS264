@@ -1,6 +1,5 @@
 ﻿
-// Name: Syed Baryalay
-// Student No: 19719431
+// Assignment 1
 
 // Developed on MacOS X
 // C# version 5.0.401
